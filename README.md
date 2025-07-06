@@ -53,7 +53,7 @@
 
 <div align="center">
 
-🌐 **Website**: [lyl1015.github.io](https://lyl1015.github.io/) | 🎓 **Scholar**: [Google Scholar](https://scholar.google.com) | 📧 **Email**: [linyl@stu.xmu.edu.cn](mailto:linyl@stu.xmu.edu.cn)
+🌐 **Website**: [lyl1015.github.io](https://lyl1015.github.io/) | 🎓 **Scholar**: [Google Scholar](https://scholar.google.com/citations?user=5F3tICwAAAAJ&hl=zh-CN) | 📧 **Email**: [linyl@stu.xmu.edu.cn](mailto:linyl@stu.xmu.edu.cn)
 
 <br>
 
