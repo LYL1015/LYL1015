@@ -20,7 +20,7 @@
 
 ## 🛠️ Featured Projects
 
-### 🎨 [JarvisArt](https://github.com/LYL1015/JarvisArt) (Preprint'2025)
+### 🎨 [JarvisArt](https://github.com/LYL1015/JarvisArt) (NeurIPS'2025)
 > Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent
 
 ### 🚗 [JarvisIR](https://github.com/LYL1015/JarvisIR) (CVPR'2025)
