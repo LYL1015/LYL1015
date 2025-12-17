@@ -20,23 +20,23 @@
 
 ## 🛠️ Featured Projects
 
-### 🎨 [JarvisEvo](https://github.com/LYL1015/JarvisEvo) (Tech Report'2025)
+### 🎨 [JarvisEvo](https://github.com/LYL1015/JarvisEvo) (Technical Report 2025)
 > JarvisEvo: Towards a Self-Evolving Photo Editing Agent with Synergistic Editor-Evaluator Optimization
 
-### 🎨 [JarvisArt](https://github.com/LYL1015/JarvisArt) (NeurIPS'2025)
+### [JarvisArt](https://github.com/LYL1015/JarvisArt) (NeurIPS'2025)
 > Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent
 
-### 🚗 [JarvisIR](https://github.com/LYL1015/JarvisIR) (CVPR'2025)
+### [JarvisIR](https://github.com/LYL1015/JarvisIR) (CVPR'2025)
 > Elevating Autonomous Driving Perception with Intelligent Image Restoration
 
-### 💡 [AGLLDiff](https://github.com/LYL1015/AGLLDiff) (AAAI'2025)
+### [AGLLDiff](https://github.com/LYL1015/AGLLDiff) (AAAI'2025)
 > Guiding Diffusion Models Towards Unsupervised Training-free Real-world Low-light Image Enhancement
 
-## 📊 Latest News & GitHub Stats
+## GitHub Stats
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LYL1015&show_icons=true&theme=radical&hide_border=true&card_width=400&card_height=280&bg_color=1a1b27&title_color=4B89DC&text_color=a9b1d6&icon_color=4B89DC" alt="GitHub Stats" />
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
