@@ -20,6 +20,9 @@
 
 ## 🛠️ Featured Projects
 
+### 🎨 [JarvisEvo](https://github.com/LYL1015/JarvisEvo) (Tech Report'2025)
+> JarvisEvo: Towards a Self-Evolving Photo Editing Agent with Synergistic Editor-Evaluator Optimization
+
 ### 🎨 [JarvisArt](https://github.com/LYL1015/JarvisArt) (NeurIPS'2025)
 > Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent
 
@@ -32,22 +35,6 @@
 ## 📊 Latest News & GitHub Stats
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LYL1015&show_icons=true&theme=radical&hide_border=true&card_width=400&card_height=280&bg_color=1a1b27&title_color=4B89DC&text_color=a9b1d6&icon_color=4B89DC" alt="GitHub Stats" />
-
-### 🌟 Latest News
-- **🎉 2025**: Our JarvisX series proudly introduces JarvisIR and JarvisArt, two groundbreaking AI systems for intelligent image restoration and creative photo enhancement!
-- **🏆 2025**: One paper accepted by ICCV'25!
-- **🏆 2025**: Three papers accepted by CVPR'25!
-- **🎊 2025**: Four papers accepted by AAAI'25 (2 oral)!
-- **📄 2024**: One paper accepted by ECCV'24!
-
-## 🎖 Honors and Awards
-
-- NTIRE 2025 challenge on day and night raindrop removal, third place
-- NTIRE 2025 Low Light Image Enhancement Challenge, sixth place
-- National Scholarship in Xiamen University, 2024
-- Outstanding Graduate in Jimei University, 2023
-- Second Price of Mathematical Contest In Modeling, 2021
-- First Price of Mathorcup Mathematical Contest in Modeling, 2021/2022
 
 ## 📫 Let's Connect!
 
