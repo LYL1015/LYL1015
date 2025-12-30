@@ -35,7 +35,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LYL1015&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4B89DC&text_color=a9b1d6&icon_color=4B89DC" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LYL1015&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4B89DC&text_color=a9b1d6&icon_color=4B89DC&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LYL1015&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4B89DC&text_color=a9b1d6" alt="Top Languages" />
 </div>
 
 ## Let's Connect!
