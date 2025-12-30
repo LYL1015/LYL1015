@@ -32,9 +32,11 @@
 ### [AGLLDiff](https://github.com/LYL1015/AGLLDiff) (AAAI'2025)
 > Guiding Diffusion Models Towards Unsupervised Training-free Real-world Low-light Image Enhancement
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=LYL1015&show_icons=true&theme=radical&hide_border=true&card_width=400&card_height=280&bg_color=1a1b27&title_color=4B89DC&text_color=a9b1d6&icon_color=4B89DC" alt="GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LYL1015&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4B89DC&text_color=a9b1d6&icon_color=4B89DC" alt="GitHub Stats" />
+</div>
 
 ## Let's Connect!
 
