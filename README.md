@@ -35,20 +35,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/LYL1015&query=$.public_repos&label=Repos&style=flat-square&color=4B89DC&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/LYL1015?style=flat-square&color=4B89DC&logo=github&label=Total%20Stars&affiliations=OWNER)
-![GitHub Followers](https://img.shields.io/github/followers/LYL1015?style=flat-square&color=4B89DC&logo=github&label=Followers)
-
-</div>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LYL1015&theme=tokyonight" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LYL1015&theme=tokyonight" alt="Repos per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LYL1015&theme=tokyonight" alt="Most Commit Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LYL1015&theme=tokyonight" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LYL1015&theme=tokyonight" alt="Most Used Languages" />
 </div>
 
 ## Let's Connect!
