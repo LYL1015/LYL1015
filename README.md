@@ -34,10 +34,8 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LYL1015&theme=tokyonight" alt="GitHub Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LYL1015&theme=tokyonight" alt="Most Used Languages" />
-</div>
+| <a href="https://github.com/LYL1015"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=LYL1015&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_orgs=true&role=OWNER,COLLABORATOR" alt="Yunlong Lin's github stats" /></a> | <a href="https://github.com/LYL1015"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=LYL1015&theme=buefy&hide_border=true&layout=compact&include_orgs=true&role=OWNER,COLLABORATOR" /></a> |
+| ------------- | ------------- |
 
 ## Let's Connect!
 
