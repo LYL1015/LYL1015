@@ -35,11 +35,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LYL1015&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4B89DC&text_color=a9b1d6&icon_color=4B89DC&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LYL1015&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4B89DC&text_color=a9b1d6&icon_color=4B89DC&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LYL1015&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4B89DC&text_color=a9b1d6&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LYL1015&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4B89DC&text_color=a9b1d6" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LYL1015&theme=tokyonight&hide_border=true&background=1a1b27&ring=4B89DC&fire=4B89DC&currStreakLabel=4B89DC" alt="GitHub Streak" />
 </div>
 
 ## Let's Connect!
