@@ -23,7 +23,7 @@
 ### [JarvisX-Cowork](https://github.com/LYL1015/JarvisX-Cowork) (Desktop App)
 > JarvisX-Cowork: Open Claude Cowork--A Personal AI Creative Assistant for Everyone
 
-### [JarvisEvo](https://github.com/LYL1015/JarvisEvo) (Technical Report 2025)
+### [JarvisEvo](https://github.com/LYL1015/JarvisEvo) (CVPR'2026 & Technical Report 2025)
 > JarvisEvo: Towards a Self-Evolving Photo Editing Agent with Synergistic Editor-Evaluator Optimization
 
 ### [JarvisArt](https://github.com/LYL1015/JarvisArt) (NeurIPS'2025)
