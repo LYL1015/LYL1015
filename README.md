@@ -16,7 +16,7 @@
 🔬 **Research Focus**: Multimodal Learning, AI Agents, Inverse Problems, Spatial Intelligence  
 📍 **Location**: Xiamen, China  
 🌐 **Website**: [lyl1015.github.io](https://lyl1015.github.io/)  
-🔍 **Job Search**: Actively seeking **26 fall PhD positions**!
+🔍 **Job Search**: Actively seeking **26 industrial positions**!
 
 ## 🛠️ Featured Projects
 
