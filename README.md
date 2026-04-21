@@ -13,7 +13,7 @@
 ## 🧑‍🎓 About Me
 
 🎓 **Master Student** at Xiamen University (XMU) @SmartDSP, advised by Prof. Xinghao Ding  
-🔬 **Research Focus**: Multimodal Learning, AI Agents, Inverse Problems, Spatial Intelligence  
+🔬 **Research Focus**: Multimodal Learning, AI Agents, RL, Coding agent 
 📍 **Location**: Xiamen, China  
 🌐 **Website**: [lyl1015.github.io](https://lyl1015.github.io/)  
 🔍 **Job Search**: Actively seeking **26 industrial positions**!
